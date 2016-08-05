@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T13:52:55.394Z'
+datePublished: '2016-08-05T14:04:20.003Z'
 sourcePath: _posts/2016-04-15-the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T13:52:54.986Z'
+dateModified: '2016-08-05T14:04:19.659Z'
 title: Speed - We are swift on data as well as support…
 app_links: []
 publisher: {}
