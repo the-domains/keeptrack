@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T07:40:17.794Z'
+datePublished: '2016-08-05T13:25:37.546Z'
 sourcePath: _posts/2016-04-15-the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive.md
 inFeed: true
 isBasedOnUrl: >-
@@ -17,30 +17,22 @@ keywords:
   - menu
   - blurrier
 related: []
-author:
-  - name: Kyle Orland
-    url: 'http://arstechnica.com/author/kyle-orland/'
-    avatar: {}
-dateModified: '2016-08-05T07:40:16.728Z'
-title: The Ars VR headset showdown-Oculus Rift vs. HTC Vive
+author: []
+via: {}
+dateModified: '2016-08-05T13:25:36.035Z'
+title: Speed
 app_links: []
-publisher:
-  url: 'http://arstechnica.com'
-  name: Ars Technica
-  favicon: 'https://cdn.arstechnica.net/favicon.ico'
-  domain: arstechnica.com
-description: >-
-  In our original reviews of the Oculus Rift and the HTC Vive, we tried very
-  hard to examine these virtual reality systems on their own merits without
-  constant comparisons to the competition. But no product exists in a vacuum.
-  After years of buildup, we're now faced with two competitive, PC-tethered VR
-  headsets hitting the market right next to each other.
+publisher: {}
+description: We are swift on data as well as support…
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Ars VR headset showdown-Oculus Rift vs. HTC Vive</h1><p>In our original reviews of the Oculus Rift and the HTC Vive, we tried very hard to examine these virtual reality systems on their own merits without constant comparisons to the competition. But no product exists in a vacuum. After years of buildup, we're now faced with two competitive, PC-tethered VR headsets hitting the market right next to each other.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/04/viveplatform2-980x1089.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b75474ed-45e8-4692-8517-3bea4120d4ea.jpg)
+
+# Speed
+
+We are swift on data as well as support...
