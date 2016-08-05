@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T07:40:17.793Z'
+datePublished: '2016-08-05T13:31:19.053Z'
 sourcePath: _posts/2016-04-16-drinks-smoked-manhattan.md
 inFeed: true
 isBasedOnUrl: 'http://wildernesscollective.com/drinks-smoked-manhattan/'
@@ -17,27 +17,22 @@ keywords:
   - polyscience
   - manhattan
 related: []
-author:
-  - name: ''
-    url: ''
-dateModified: '2016-08-05T07:40:16.644Z'
-title: 'Drinks: Smoked Manhattan'
+author: []
+via: {}
+dateModified: '2016-08-05T13:31:07.640Z'
+title: Overview
 app_links: []
-publisher:
-  name: Wildernesscollective
-  domain: wildernesscollective.com
-  url: 'http://wildernesscollective.com'
-  favicon: 'http://wildernesscollective.com/wp-content/uploads/2016/02/W-Mark.png'
-description: >-
-  Our good friends at Gin & Luck were kind enough to mix up a giant batch of
-  Smoked Manhattan's for the WC-003 trip. When you can't have a fire, the next
-  best thing is a fire in a flask. Here's the recipe for the mixologist in you.
+publisher: {}
+description: Watch your data to grow your business
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Drinks: Smoked Manhattan</h1><p>Our good friends at Gin &amp; Luck were kind enough to mix up a giant batch of Smoked Manhattan's for the WC-003 trip. When you can't have a fire, the next best thing is a fire in a flask. Here's the recipe for the mixologist in you.</p><img src="http://wildernesscollective.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-19-at-10.42.36-AM-600x400.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61f0fba4-d33b-45c4-85d3-ea7b47018b38.jpg)
+
+# Overview
+
+Watch your data to grow your business
