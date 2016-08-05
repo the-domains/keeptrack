@@ -6,9 +6,9 @@ color:
   saturation: 0.7256178320385516
   rhythmicContrast: 0.9298772646579891
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#0E6AA0'
+    - '#989898'
+    - '#FFFFFF'
+    - '#000000'
+    - '#00FFFF'
 name: KeepTrack
