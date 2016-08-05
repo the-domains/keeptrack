@@ -14,6 +14,10 @@ layout_spectrum: 0.7554708397947252
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8166b88d-8c19-460e-a999-7a03275fe30b.png
 name: KeepTrack
+navigation:
+  - name: Who are we?
+    id: c9c17041-7536-445d-bb8a-0cf383376f1e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/86f677eb-72b6-496f-b0e2-1581a4ddbb00.png
 title: KeepTrack - Fast and Secure Onboarding
