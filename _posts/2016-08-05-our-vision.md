@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-05T08:02:21.816Z'
+datePublished: '2016-08-05T08:05:56.074Z'
 sourcePath: _posts/2016-08-05-our-vision.md
 author: []
 via: {}
-dateModified: '2016-08-05T08:02:21.393Z'
+dateModified: '2016-08-05T08:05:55.595Z'
 title: Our Vision
 publisher: {}
 description: >-
@@ -17,7 +17,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4243c244-612e-4732-9436-c82aba173173.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fee64b1-115a-4f4a-b9f5-1c8139fd6b65.jpg)
 
 # Our Vision
 
