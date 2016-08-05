@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T13:59:07.282Z'
+datePublished: '2016-08-05T14:04:37.731Z'
 sourcePath: _posts/2016-04-16-drinks-smoked-manhattan.md
 inFeed: true
 isBasedOnUrl: 'http://wildernesscollective.com/drinks-smoked-manhattan/'
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T13:53:29.661Z'
+dateModified: '2016-08-05T14:04:37.328Z'
 title: Overview - Watch your data to grow your business
 app_links: []
 publisher: {}
