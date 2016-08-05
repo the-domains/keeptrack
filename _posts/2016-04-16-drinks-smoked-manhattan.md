@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T13:53:07.130Z'
+datePublished: '2016-08-05T13:59:07.282Z'
 sourcePath: _posts/2016-04-16-drinks-smoked-manhattan.md
 inFeed: true
 isBasedOnUrl: 'http://wildernesscollective.com/drinks-smoked-manhattan/'
@@ -19,11 +19,11 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T13:52:59.000Z'
-title: Overview
+dateModified: '2016-08-05T13:53:29.661Z'
+title: Overview - Watch your data to grow your business
 app_links: []
 publisher: {}
-description: Watch your data to grow your business
+description: ''
 inLanguage: en
 inNav: false
 starred: false
@@ -33,6 +33,4 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61f0fba4-d33b-45c4-85d3-ea7b47018b38.jpg)
 
-# Overview
-
-Watch your data to grow your business
+# Overview - Watch your data to grow your business
