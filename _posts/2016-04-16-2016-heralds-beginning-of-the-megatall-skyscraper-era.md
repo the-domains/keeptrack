@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T13:52:42.899Z'
+datePublished: '2016-08-05T13:58:39.761Z'
 sourcePath: _posts/2016-04-16-2016-heralds-beginning-of-the-megatall-skyscraper-era.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T13:52:42.515Z'
+dateModified: '2016-08-05T13:58:39.330Z'
 title: >-
   Security - Swiss excellence within quality and security included in your
   contract
@@ -33,6 +33,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6e70ddf-14da-4864-9b3b-b5d9a80fdf9a.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02b968dd-75b8-457c-b846-2bb51902de2e.png)
 
 # Security - Swiss excellence within quality and security included in your contract
