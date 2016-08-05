@@ -1,0 +1,14 @@
+layout_spectrum: 0.7554708397947252
+typography_spectrum: 0.13513626297935843
+color:
+  brandStrength: 0.6348440798465163
+  lightness: 0.2369780873414129
+  saturation: 0.7256178320385516
+  rhythmicContrast: 0.9298772646579891
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: KeepTrack
