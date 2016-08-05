@@ -1,4 +1,3 @@
-layout_spectrum: 0.7554708397947252
 typography_spectrum: 0.13513626297935843
 color:
   brandStrength: 0.6348440798465163
@@ -11,5 +10,7 @@ color:
     - '#FFFFFF'
     - '#000000'
     - '#00FFFF'
+layout_spectrum: 0.7554708397947252
 name: KeepTrack
+title: Fast and Secure Onboarding
 description: Speed - Overview - Security
