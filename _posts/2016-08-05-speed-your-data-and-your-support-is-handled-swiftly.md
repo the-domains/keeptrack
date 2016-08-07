@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-08-05T14:07:37.139Z'
-datePublished: '2016-08-05T14:07:45.496Z'
+dateModified: '2016-08-07T10:34:28.696Z'
+datePublished: '2016-08-07T10:34:29.610Z'
 title: Speed - Your data and your support is handled swiftly
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-05-speed-your-data-and-your-support-is-handled-swiftly.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
