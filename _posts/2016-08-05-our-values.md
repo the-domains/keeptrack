@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-08T11:25:25.111Z'
+datePublished: '2016-08-08T11:26:36.208Z'
 sourcePath: _posts/2016-08-05-our-values.md
 author: []
 via: {}
-dateModified: '2016-08-08T11:25:24.480Z'
+dateModified: '2016-08-08T11:26:34.868Z'
 title: Our Values
 publisher: {}
 description: ''
