@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-08T11:26:36.208Z'
+datePublished: '2016-08-08T12:05:43.839Z'
 sourcePath: _posts/2016-08-05-our-values.md
 author: []
 via: {}
-dateModified: '2016-08-08T11:26:34.868Z'
+dateModified: '2016-08-08T12:05:43.363Z'
 title: Our Values
 publisher: {}
-description: ''
+description: Diligence - Set goals and work hard to achieve them
 starred: false
 inFeed: true
 hasPage: false
@@ -18,10 +18,10 @@ _type: MediaObject
 
 # Our Values
 
-**Diligence - **Set goals and work hard to achieve them
+**Diligence** - Set goals and work hard to achieve them
 
-**Empowerment - **Assisting people and organizations achieving their goals
+**Empowerment** - Assisting people and organizations achieving their goals
 
-**Efficiency - **Utilize technology to the best advantage
+**Efficiency** - Utilize technology to the best advantage
 
-**Reliability - **Even when it's hard
+**Reliability** - Even when it's hard
