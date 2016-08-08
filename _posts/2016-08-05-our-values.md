@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T09:36:06.745Z'
+datePublished: '2016-08-08T10:40:45.048Z'
 sourcePath: _posts/2016-08-05-our-values.md
 author: []
 via: {}
-dateModified: '2016-08-08T09:36:06.355Z'
-title: ''
+dateModified: '2016-08-08T10:40:44.543Z'
+title: Our Values
 publisher: {}
 description: Diligence - Set goals and work hard to achieve them
 starred: false
@@ -14,7 +14,9 @@ inNav: false
 _type: MediaObject
 
 ---
-![Our Values](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec86fe0b-00e5-458b-9554-85115281269a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec86fe0b-00e5-458b-9554-85115281269a.jpg)
+
+# Our Values
 
 **Diligence** - Set goals and work hard to achieve them
 
