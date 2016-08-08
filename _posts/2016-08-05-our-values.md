@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-08T10:40:45.048Z'
+datePublished: '2016-08-08T10:51:59.412Z'
 sourcePath: _posts/2016-08-05-our-values.md
 author: []
 via: {}
-dateModified: '2016-08-08T10:40:44.543Z'
+dateModified: '2016-08-08T10:51:58.948Z'
 title: Our Values
 publisher: {}
 description: Diligence - Set goals and work hard to achieve them
@@ -22,6 +22,6 @@ _type: MediaObject
 
 **Empowerment** - Assisting people and organizations achieving their goals
 
-**Efficient** - Utilize technology to the best advantage
+**Efficiency** - Utilize technology to the best advantage
 
-**Reliable** - Even when it's hard
+**Reliability** - Even when it's hard
