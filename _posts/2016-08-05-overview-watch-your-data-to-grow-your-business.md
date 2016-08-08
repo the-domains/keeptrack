@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-08T10:18:19.145Z'
+datePublished: '2016-08-08T10:26:47.959Z'
 sourcePath: _posts/2016-08-05-overview-watch-your-data-to-grow-your-business.md
 author: []
 via: {}
-dateModified: '2016-08-08T10:18:18.605Z'
+dateModified: '2016-08-08T10:26:45.811Z'
 title: ''
 publisher: {}
 description: Watch your data to grow your business
