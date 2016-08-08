@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-08T11:21:05.997Z'
+datePublished: '2016-08-08T11:25:25.111Z'
 sourcePath: _posts/2016-08-05-our-values.md
 author: []
 via: {}
-dateModified: '2016-08-08T11:21:05.422Z'
+dateModified: '2016-08-08T11:25:24.480Z'
 title: Our Values
 publisher: {}
 description: ''
@@ -18,18 +18,10 @@ _type: MediaObject
 
 # Our Values
 
-## **Diligence**
+**Diligence - **Set goals and work hard to achieve them
 
-Set goals and work hard to achieve them
+**Empowerment - **Assisting people and organizations achieving their goals
 
-## **Empowerment**
+**Efficiency - **Utilize technology to the best advantage
 
-Assisting people and organizations achieving their goals
-
-## **Efficiency**
-
-Utilize technology to the best advantage
-
-## **Reliability**
-
-Even when it's hard
+**Reliability - **Even when it's hard
