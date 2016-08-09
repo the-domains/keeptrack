@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-09T16:23:01.853Z'
+datePublished: '2016-08-09T16:28:39.913Z'
 sourcePath: >-
   _posts/2016-08-09-you-will-receive-the-occasional-news-mail-from-keeptrack-abo.md
 author: []
 via: {}
-dateModified: '2016-08-09T16:23:00.991Z'
-title: Sign up for our International news mail
+dateModified: '2016-08-09T16:28:39.481Z'
+title: ''
 publisher: {}
 description: ''
 starred: false
@@ -15,6 +15,4 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a442987-1bef-4de1-a5de-d55a9046cbb3.png)
-
-## Sign up for our International news mail
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1e66406-06b9-47ff-97d7-63f10536b2c0.gif)
