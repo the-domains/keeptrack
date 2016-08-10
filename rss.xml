@@ -4,7 +4,7 @@
         <description><![CDATA[KeepTrack - Fast and Secure Onboarding]]></description>
         <link>https://thegrid.ai/keeptrack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 08:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 08:18:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/keeptrack/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Our Vision]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/keeptrack/our-vision/index.html</link>
             <guid isPermaLink="false">e3416fa8-c3be-4a35-9bfd-8e27aa74bd2f</guid>
             <pubDate>Wed, 10 Aug 2016 08:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Mission]]></title>
+            <description><![CDATA[<article><h1>Our Mission</h1><p>Fast and secure onboarding placing you at the forefront of your industry</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f05452c-6ce5-42dc-9ac1-f2bbb0218084.jpg"></article>]]></description>
+            <link>https://thegrid.ai/keeptrack/4791f976-34c5-44f8-a5d6-fbabf07fc0ff/index.html</link>
+            <guid isPermaLink="false">4791f976-34c5-44f8-a5d6-fbabf07fc0ff</guid>
+            <pubDate>Wed, 10 Aug 2016 08:18:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch your data to grow your business]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/keeptrack/security/index.html</link>
             <guid isPermaLink="false">8606f5c8-619a-4da1-a24c-c8251716d271</guid>
             <pubDate>Tue, 09 Aug 2016 09:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Mission]]></title>
-            <description><![CDATA[<article><h1>Our Mission</h1><p>Fast and secure onboarding placing you at the forefront of your industry</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f05452c-6ce5-42dc-9ac1-f2bbb0218084.jpg"></article>]]></description>
-            <link>https://thegrid.ai/keeptrack/4791f976-34c5-44f8-a5d6-fbabf07fc0ff/index.html</link>
-            <guid isPermaLink="false">4791f976-34c5-44f8-a5d6-fbabf07fc0ff</guid>
-            <pubDate>Mon, 08 Aug 2016 10:11:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
