@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-08T10:46:13.838Z'
+datePublished: '2016-08-10T08:18:38.555Z'
 sourcePath: _posts/2016-08-05-overview-watch-your-data-to-grow-your-business.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T10:46:13.307Z'
+dateModified: '2016-08-10T08:18:38.040Z'
 title: Watch your data to grow your business
 publisher: {}
 description: ''
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: watch-your-data-to-grow-your-business/index.html
+_type: Article
 
 ---
 # Watch your data to grow your business
