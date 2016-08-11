@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-10T08:15:39.738Z'
+datePublished: '2016-08-11T15:56:14.272Z'
 sourcePath: _posts/2016-08-05-our-vision.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-10T08:15:38.923Z'
+dateModified: '2016-08-11T15:56:13.257Z'
 title: Our Vision
 publisher: {}
 description: >-
   We want to be the preferred Digital Backbone for companies supplying course
-  and training activities to consumers or businesses. We want to make onboarding
+  and training activities to consumers or businesses.We want to make onboarding
   and Business Intelligence easy.
-starred: true
+starred: false
 url: our-vision/index.html
 _type: Article
 
