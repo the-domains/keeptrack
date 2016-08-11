@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-10T08:18:11.183Z'
+datePublished: '2016-08-11T16:08:40.709Z'
 sourcePath: _posts/2016-08-05-speed-your-data-and-your-support-is-handled-swiftly.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-10T08:18:10.554Z'
+dateModified: '2016-08-11T16:08:40.187Z'
 title: Speed
 publisher: {}
-description: Your data and your support is handled swiftly
+description: Make it happen - Your way to perfection.
 starred: false
 url: speed/index.html
 _type: Article
@@ -18,4 +18,4 @@ _type: Article
 
 # Speed
 
-Your data and your support is handled swiftly
+Make it happen - Your way to perfection.
