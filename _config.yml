@@ -18,6 +18,9 @@ navigation:
   - name: Who are we?
     id: c9c17041-7536-445d-bb8a-0cf383376f1e
     type: content
+  - name: Features!
+    id: bcf3a82a-c4f3-4c25-a9d4-5e8c7b8e6836
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/86f677eb-72b6-496f-b0e2-1581a4ddbb00.png
 title: KeepTrack - Fast and Secure Onboarding
