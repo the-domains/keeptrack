@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-09T09:38:06.236Z'
+datePublished: '2016-08-11T15:52:14.724Z'
 sourcePath: >-
   _posts/2016-08-05-security-you-get-swiss-excellence-within-quality-and-secur.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T09:38:05.611Z'
+dateModified: '2016-08-11T15:52:14.075Z'
 title: Security
 publisher: {}
 description: You get Swiss excellence in quality and security by design
@@ -15,7 +15,7 @@ url: security/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69291383-e663-4e86-80a7-ef1e3c3fe65f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4483f203-1ecd-450c-9892-3429a3957ce3.jpg)
 
 # Security
 
