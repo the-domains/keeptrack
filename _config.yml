@@ -1,16 +1,16 @@
-typography_spectrum: 0.9775416080374271
+typography_spectrum: 0.42911174101755023
 color:
-  brandStrength: 0.1447271399665624
-  lightness: 0.46877106186002493
-  saturation: 0.8774285153485835
-  rhythmicContrast: 0.12239278620108962
+  brandStrength: 0.6348440798465163
+  lightness: 0.2369780873414129
+  saturation: 0.7256178320385516
+  rhythmicContrast: 0.9298772646579891
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-layout_spectrum: 0.6818328390363604
+    - '#0E6AA0'
+    - '#989898'
+    - '#FFFFFF'
+    - '#000000'
+    - '#00FFFF'
+layout_spectrum: 0.011114450171589851
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8166b88d-8c19-460e-a999-7a03275fe30b.png
 name: KeepTrack
@@ -18,10 +18,7 @@ navigation:
   - name: Who are we?
     id: c9c17041-7536-445d-bb8a-0cf383376f1e
     type: content
-  - name: Features!
-    id: bcf3a82a-c4f3-4c25-a9d4-5e8c7b8e6836
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/86f677eb-72b6-496f-b0e2-1581a4ddbb00.png
-title: KeepTrack - Fast and Secure Onboarding
+title: KeepTrack - Speed Overview Security
 description: Speed - Overview - Security
