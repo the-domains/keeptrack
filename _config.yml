@@ -1,16 +1,16 @@
-typography_spectrum: 0.42590088839642704
+typography_spectrum: 0.3831371625419706
 color:
-  brandStrength: 0.03650004812516272
-  lightness: 0.19456615997478366
-  saturation: 0.013735018903389573
-  rhythmicContrast: 0.6578998251352459
+  brandStrength: 0.6466635384131223
+  lightness: 0.21751989028416574
+  saturation: 0.9560108410660177
+  rhythmicContrast: 0.9004983408376575
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-layout_spectrum: 0.011114450171589851
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.6818328390363604
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8166b88d-8c19-460e-a999-7a03275fe30b.png
 name: KeepTrack
